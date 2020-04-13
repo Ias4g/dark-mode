@@ -12,10 +12,14 @@
 <h4 align="center">Technologies used.</h4>
 <h6 align="center">HTML 5 - CSS 3 - JavaScript</h6>
 
+<br>
+
 <h4 align="center">Theme Light</h4>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/62667424/79051807-a949f380-7c08-11ea-8a6c-d867ccace054.png">
-</p><br>
+</p>
+
+<br>
 
 <h4 align="center">Theme Dark</h4>
 <p align="center">
