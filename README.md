@@ -16,7 +16,7 @@
 
 <h4 align="center">Theme Light</h4>
 <p align="center">
- <img src="htps://user-images.githubusercontent.com/62667424/79051807-a949f380-7c08-11ea-8a6c-d867ccace054.png">
+ <img src="https://user-images.githubusercontent.com/62667424/79051807-a949f380-7c08-11ea-8a6c-d867ccace054.png">
 </p>
 
 <h4 align="center">Theme Dark</h4>
