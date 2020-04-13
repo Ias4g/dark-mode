@@ -10,9 +10,7 @@
 <p align="center">Creating dark mode from scratch with CSS and JavaScript</p>
 
 <h4 align="center">Technologies used.</h4>
-<h6 align="center">HTML 5</h6>
-<h6 align="center">CSS 3</h6>
-<h6 align="center">JavaScript</h6><br>
+<h6 align="center">HTML 5 - CSS 3 - JavaScript</h6>
 
 <h4 align="center">Theme Light</h4>
 <p align="center">
