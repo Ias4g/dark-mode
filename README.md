@@ -19,7 +19,7 @@
  <img src="htps://user-images.githubusercontent.com/62667424/79051807-a949f380-7c08-11ea-8a6c-d867ccace054.png">
 </p>
 
-<h4 align="center">Theme Dark</h4><p align="center">
+<h4 align="center">Theme Dark</h4>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/62667424/79051805-a8b15d00-7c08-11ea-9d27-1f1c7e24c368.png">
 </p>
