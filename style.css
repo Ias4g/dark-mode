@@ -20,7 +20,7 @@ body{
 
 .container{
     background-color: var(--bg-panel);
-    max-width: 60%;
+    max-width: 400px;
 
     margin: 5em;
     padding: 5em;
