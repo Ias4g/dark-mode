@@ -20,7 +20,7 @@ body{
 
 .container{
     background-color: var(--bg-panel);
-    max-width: 300px;
+    max-width: 60%;
 
     margin: 5em;
     padding: 5em;
@@ -47,6 +47,7 @@ p{
     font-size: 1.1em;
     line-height: 1.8em;
     margin-top: 2em;
+    text-align: justify;
 }
 
 input[type=checkbox]{
